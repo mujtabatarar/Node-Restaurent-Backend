@@ -1,0 +1,20 @@
+{
+  "name": "w3-practice",
+  "version": "1.0.0",
+  "description": "Vue backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.21.3"
+  }
+}

@@ -1,0 +1,10 @@
+CREATE TABLE allrestaurents(
+    id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    restaurent_name VARCHAR(20),
+    restaurent_location VARCHAR(200),
+    restaurent_contactNo VARCHAR(20),
+    opening_time TIME,
+    closing_time TIME,
+
+);
+
